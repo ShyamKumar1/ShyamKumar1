@@ -7,7 +7,7 @@
 * :office: **Currently working as**: </br>
     1. :raised_hands: Intern at <a href="http://the-brainy-homes.netlify.app/">The Brainy Homes</a>.</br>
     2. :v: Contributor at <a href="https://devincept.tech/">DevIncept</a>. </br>
-    3. 👯 Student Partner at <a href="https://internshala.com"></a> & Face of Jawaharlal Technological University, Anantapuramu.
+    3. 👯 Student Partner at <a href="https://internshala.com">Internshala</a> & Face of <a href="http://jntuacea.ac.in/">Jawaharlal Technological University<a/>, Anantapuramu.
     
 * 💬  **Ask me about anything** <a href="https://github.com/ShyamKumar1/ShyamKumar1/issues">Here<a/>
   
