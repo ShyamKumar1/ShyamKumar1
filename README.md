@@ -2,8 +2,9 @@
 
 <p>Hi, I'm Shyam Kumar, a passionate self-taught frontEnd web developer from India.</p>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/manisaiprasad/notes/master/images/bg.png"><img src="banner.jpg" alt="Banner" style="max-width:100%;"></a>
-* **I'm a Student Developer**.
-* **Currently working as**: </br>
+
+* :grin: **I'm a Student Developer**.
+* :office: **Currently working as**: </br>
     1. :raised_hands: Intern at <a href="http://the-brainy-homes.netlify.app/">The Brainy Homes</a>.</br>
     2. :v: Contributor at <a href="https://devincept.tech/">DevIncept</a>. </br>
     3. 👯 Student Partner at <a href="https://internshala.com"></a> & Face of Jawaharlal Technological University, Anantapuramu.
