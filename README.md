@@ -25,7 +25,7 @@
   </div>
  </br>
 
-* **Skills**
+* :1st_place_medal: **Skills**
     1. Operating System - Windows, Linux, Mac OS
 
     2. Programming Languages - C, C++, Python, Java, JavaScript, Kotlin (Intermediate)
