@@ -11,20 +11,18 @@
     
 * 💬  **Ask me about anything** <a href="https://github.com/ShyamKumar1/ShyamKumar1/issues">Here<a/>
   
-* 📫  **How to reach me:** 
-<p align="center">
-  <a align="center" href="https://twitter.com/ShyamGeorge7" rel="nofollow">
-  <img align="left" alt="Shyam Kumar | Twitter" width="21px" src="icons8-twitter.svg" style="max-width:100%;">
- </a>
- <a href="https://www.instagram.com/_smiling_storm_/" rel="nofollow">
-  <img align="left" alt="Shyam Kumar | Instagram" width="21px" src="icons8-instagram.svg" style="max-width:100%;">
- </a>
- <a href="https://www.facebook.com/shyam.george15/" rel="nofollow">
-  <img align="left" alt="Shyam Kumar | Facebook" width="21px" src="icons8-facebook.svg" style="max-width:100%;">
- </a>
-  </p>
- </br>
-</br>
+ 
+- :email: **Write me on** : shyam.ceolife@gmail.com
+
+
+- 📫 **How to reach me**:
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/shyam-kumar-9b9841157/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_smiling_storm_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:shyam.ceolife@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/shyam.george15/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 * :1st_place_medal: **Skills**
     1. Operating System - Windows, Linux, Mac OS
