@@ -12,8 +12,8 @@
 * 💬  **Ask me about anything** <a href="https://github.com/ShyamKumar1/ShyamKumar1/issues">Here<a/>
   
 * 📫  **How to reach me:** 
-<div align="center">
-  <a href="https://twitter.com/ShyamGeorge7" rel="nofollow">
+<p align="center">
+  <a align="center" href="https://twitter.com/ShyamGeorge7" rel="nofollow">
   <img align="left" alt="Shyam Kumar | Twitter" width="21px" src="icons8-twitter.svg" style="max-width:100%;">
  </a>
  <a href="https://www.instagram.com/_smiling_storm_/" rel="nofollow">
@@ -22,8 +22,9 @@
  <a href="https://www.facebook.com/shyam.george15/" rel="nofollow">
   <img align="left" alt="Shyam Kumar | Facebook" width="21px" src="icons8-facebook.svg" style="max-width:100%;">
  </a>
-  </div>
+  </p>
  </br>
+</br>
 
 * :1st_place_medal: **Skills**
     1. Operating System - Windows, Linux, Mac OS
