@@ -37,7 +37,7 @@
 
 >NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.
   
-[![Shyam's github stats](https://github-readme-stats.vercel.app/api?username=ShyamKumar1&show_icons=true&theme=radical&hide=stars,issues)](https://github.com/ShyamKumar1/github-readme-stats)
+[![Shyam's github stats](https://github-readme-stats.vercel.app/api?username=ShyamKumar1&show_icons=true&theme=radical&hide=stars)](https://github.com/ShyamKumar1/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamKumar1)](https://github.com/ShyamKumar1/github-readme-stats)
 
