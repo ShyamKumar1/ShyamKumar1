@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>Hi, I'm Shyam Kumar, a passionate self-taught frontEnd web developer from India.</p>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/manisaiprasad/notes/master/images/bg.png"><img src="banner.jpg" alt="Banner" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="#"><img src="banner.jpg" alt="Banner" style="max-width:100%;"></a>
 
 * :grin: **I'm a Student Developer**.
 * :office: **Currently working as**: </br>
