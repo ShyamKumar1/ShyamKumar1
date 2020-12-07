@@ -41,5 +41,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamKumar1)](https://github.com/ShyamKumar1/github-readme-stats)
 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=shyam0815&hide_title=true&hide_border=true&langs_count=5)
 
 ![](https://komarev.com/ghpvc/?username=ShyamKumar1&style=flat) <b>From 11/25/2020</b>
