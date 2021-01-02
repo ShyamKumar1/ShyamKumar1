@@ -4,11 +4,8 @@
 <a target="_blank" rel="noopener noreferrer" href="#"><img src="banner.jpg" alt="Banner" style="max-width:100%;"></a>
 
 * :grin: **I'm a Student Developer**.
-* :office: **Currently working as**: </br>
-    1. :raised_hands: Intern at <a href="http://the-brainy-homes.netlify.app/">The Brainy Homes</a>.</br>
-    2. :v: Contributor at <a href="https://devincept.tech/">DevIncept</a>. </br>
-    3. 👯 Student Partner at <a href="https://internshala.com">Internshala</a> & Face of <a href="http://jntuacea.ac.in/">Jawaharlal Technological University<a/>, Anantapuramu.
-    
+* :office: **Currently preparing for exams ;p **: </br>
+   
 * 💬  **Ask me about anything** <a href="https://github.com/ShyamKumar1/ShyamKumar1/issues">Here<a/>
   
  
