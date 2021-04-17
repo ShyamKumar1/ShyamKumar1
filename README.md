@@ -16,7 +16,7 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/shyam-kumar-9b9841157/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_smiling_storm_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/shyam._x/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:shyam.ceolife@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 </p>
@@ -24,12 +24,12 @@
 * :1st_place_medal: **Skills**
     1. Operating System - Windows, Linux, Mac OS
 
-    2. Programming Languages - C, C++, Python, Java, JavaScript, Kotlin (Intermediate)
+    2. Programming Languages - C, C++, Python, Java, JavaScript.
 
-    3. Web/Mobile App Dev - Android, Flutter, HTML5, CSS, Bootstrap, SQL, Node JS, PHP, MongoDB
+    3. Web/Mobile App Dev - Android, HTML5, CSS, Bootstrap, SQL, Node JS, PHP, MongoDB
 
-    4. Technologies and Frameworks – React, spring, Django, Express.
-    5. Softwares– Photoshop, Figma, Dreamviewer, Adobe XD, 
+    4. Technologies and Frameworks – React,  Django, Express.
+    5. Softwares– Photoshop, Figma, Dreamviewer, Adobe XD
 
 
 >NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.
