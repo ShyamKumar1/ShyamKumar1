@@ -4,7 +4,7 @@
 <a target="_blank" rel="noopener noreferrer" href="#"><img src="banner.jpg" alt="Banner" style="max-width:100%;"></a>
 
 * :grin: **I'm a Student Developer**.
-* :office: **Currently Working On DSA** ;p </br>
+* :office: **Currently Working On DSA** </br>
    
 * 💬  **Ask me about anything** <a href="https://github.com/ShyamKumar1/ShyamKumar1/issues">Here<a/>
   
