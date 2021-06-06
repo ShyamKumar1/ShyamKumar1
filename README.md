@@ -24,7 +24,7 @@
 * :1st_place_medal: **Skills**
     1. Operating System - Windows, Linux, Mac OS
 
-    2. Programming Languages - C, C++, Python, Java, JavaScript.
+    2. Programming Languages - C, Python, Java, JavaScript.
 
     3. Web/Mobile App Dev - Android, HTML5, CSS, Bootstrap, SQL, Node JS, PHP, MongoDB
 
