@@ -1,7 +1,4 @@
- 👋
-
-
-<a target="_blank" rel="noopener noreferrer" href="#"><img src="banner.jpg" alt="Banner" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="#"><img src="banner.jpg" alt="Banner" style="max-width:80%;"></a>
 
 * :grin: **Hi, I'm Shyam Kumar, a passionate self-taught Student Web Developer.**.
 * :office: **Currently Working On DSA** </br>
@@ -9,7 +6,7 @@
 * 💬  **Ask me about anything** <a href="https://github.com/ShyamKumar1/ShyamKumar1/issues">Here<a/>
   
  
-- :email: **Write me on** : shyam.ceolife@gmail.com
+- :email: **Write me on** : shyam.devlife@gmail.com
 
 
 - 📫 **How to reach me**:
