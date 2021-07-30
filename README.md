@@ -1,9 +1,9 @@
-### Hi there 👋
+ 👋
 
-<p>Hi, I'm Shyam Kumar, a passionate self-taught Student Web Developer.</p>
+
 <a target="_blank" rel="noopener noreferrer" href="#"><img src="banner.jpg" alt="Banner" style="max-width:100%;"></a>
 
-* :grin: **I'm a Student Developer**.
+* :grin: **Hi, I'm Shyam Kumar, a passionate self-taught Student Web Developer.**.
 * :office: **Currently Working On DSA** </br>
    
 * 💬  **Ask me about anything** <a href="https://github.com/ShyamKumar1/ShyamKumar1/issues">Here<a/>
