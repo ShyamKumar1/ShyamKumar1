@@ -25,7 +25,7 @@
 
     3. Web/Mobile App Dev - Android, HTML5, CSS, Bootstrap, SQL, Node JS, PHP, MongoDB
 
-    4. Technologies and Frameworks – React,  Django, Express, GCP.
+    4. Technologies and Frameworks – React,  Django, Express, GCP.f
     5. Softwares– Photoshop, Figma, Dreamviewer, Adobe XD
 
 
@@ -37,4 +37,4 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=myselfshyam)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=ShyamKumar1&style=flat) <b>From 11/25/2020</b>
+![](https://komarev.com/ghpvc/?username=ShyamKumar1&style=flat)
