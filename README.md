@@ -1,4 +1,4 @@
-<a target="_blank" rel="noopener noreferrer" href="#"><img src="banner.jpg" alt="Banner" style="max-width:80%;"></a>
+<!--<a target="_blank" rel="noopener noreferrer" href="#"><img src="banner.jpg" alt="Banner" style="max-width:80%;"></a>-->
 
 * :grin: **Hi, I'm Shyam Kumar, a passionate self-taught Student Web Developer.**.
 * :office: **Currently Working On DSA** </br>
