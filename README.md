@@ -1,7 +1,7 @@
 <!--<a target="_blank" rel="noopener noreferrer" href="#"><img src="banner.jpg" alt="Banner" style="max-width:80%;"></a>-->
 
 * :grin: **Hi, I'm Shyam Kumar, a passionate self-taught Student Web Developer.**.
-* :office: **Currently Working On DSA** </br>
+* :office: **Currently Working On Full-Stack Web Development** </br>
    
 * 💬  **Ask me about anything** <a href="https://github.com/ShyamKumar1/ShyamKumar1/issues">Here<a/>
   
@@ -25,7 +25,7 @@
 
     3. Web/Mobile App Dev - Android, HTML5, CSS, Bootstrap, SQL, Node JS, PHP, MongoDB
 
-    4. Technologies and Frameworks – React,  Django, Express, GCP.f
+    4. Technologies and Frameworks – React,  Express, Spring, Microservice
     5. Softwares– Photoshop, Figma, Dreamviewer, Adobe XD
 
 
