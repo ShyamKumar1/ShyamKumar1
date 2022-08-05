@@ -33,7 +33,7 @@
   
 [![Shyam's github stats](https://github-readme-stats.vercel.app/api?username=ShyamKumar1&show_icons=true&theme=radical&hide=stars)](https://github.com/ShyamKumar1/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShyamKumar1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShyamKumar1&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamKumar1)](https://github.com/ShyamKumar1/github-readme-stats)
 
