@@ -23,7 +23,7 @@
 
     2. Programming Languages - C, Python, Java.
 
-    3. Web/Mobile App Dev - Android, HTML5, CSS, Bootstrap, SQL, Node JS, PHP, MongoDB
+    3. Web/Mobile App Dev - HTML5, CSS, Bootstrap, SQL, Node JS, PHP, MongoDB
 
     4. Technologies and Frameworks – React,  Express, Spring, Microservice
     5. Softwares– Photoshop, Figma, Dreamviewer, Adobe XD
