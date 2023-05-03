@@ -37,6 +37,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamKumar1)](https://github.com/ShyamKumar1/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=myselfshyam)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myselfshyam)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=ShyamKumar1&style=flat)
