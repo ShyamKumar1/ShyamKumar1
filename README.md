@@ -36,6 +36,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShyamKumar1&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamKumar1)](https://github.com/ShyamKumar1/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamKumar1&hide_progress=true)](https://github.com/ShyamKumar1/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myselfshyam)](https://github.com/anuraghazra/github-readme-stats)
 
