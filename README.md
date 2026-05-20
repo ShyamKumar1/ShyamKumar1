@@ -70,14 +70,20 @@ fun_fact: I love to draw and play guitar
 
 <p align="center">
   <a href="https://github.com/ShyamKumar1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShyamKumar1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamKumar1&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
+    <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShyamKumar1&theme=radical" alt="Profile Summary"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ShyamKumar1">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShyamKumar1&theme=radical&hide_border=true" alt="GitHub Streak"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShyamKumar1&theme=radical" alt="Stats"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShyamKumar1&theme=radical" alt="Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ShyamKumar1">
+    <img width="90%" src="https://streak-stats.demolab.com?user=ShyamKumar1&theme=radical&hide_border=true" alt="GitHub Streak"/>
   </a>
 </p>
 
@@ -101,22 +107,40 @@ fun_fact: I love to draw and play guitar
 
 ## &#x1F680; Featured Projects
 
-<p align="center">
-  <a href="https://github.com/ShyamKumar1/Customer-Service-Portal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShyamKumar1&repo=Customer-Service-Portal&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/ShyamKumar1/InfyRail-Project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShyamKumar1&repo=InfyRail-Project&theme=radical&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ShyamKumar1/QR-Code-Generator-Python">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShyamKumar1&repo=QR-Code-Generator-Python&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/ShyamKumar1/Self-Driving-2d-AI-Car-Simulation">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShyamKumar1&repo=Self-Driving-2d-AI-Car-Simulation&theme=radical&hide_border=true" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ShyamKumar1/Customer-Service-Portal">
+        <img src="https://img.shields.io/badge/Customer%20Service%20Portal-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        <br/>
+        <sub>Full-stack app for managing customer service requests<br/>Spring Boot + Angular + Node + SQL</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/ShyamKumar1/InfyRail-Project">
+        <img src="https://img.shields.io/badge/InfyRail%20Project-1A73E8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        <br/>
+        <sub>Railway management system</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ShyamKumar1/QR-Code-Generator-Python">
+        <img src="https://img.shields.io/badge/QR%20Code%20Generator-2E7D32?style=for-the-badge&logo=python&logoColor=white" alt="Repo"/>
+        <br/>
+        <sub>Python-based QR code generator</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/ShyamKumar1/Self-Driving-2d-AI-Car-Simulation">
+        <img src="https://img.shields.io/badge/Self%20Driving%20AI%20Car-7B1FA2?style=for-the-badge&logo=ai&logoColor=white" alt="Repo"/>
+        <br/>
+        <sub>2D AI car simulation using neural networks</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
