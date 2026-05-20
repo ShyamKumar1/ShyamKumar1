@@ -77,13 +77,13 @@ fun_fact: I love to draw and play guitar
 <p align="center">
   <a href="https://github.com/ShyamKumar1">
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShyamKumar1&theme=radical" alt="Stats"/>
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShyamKumar1&theme=radical" alt="Languages"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShyamKumar1&theme=radical" alt="Productive Time"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ShyamKumar1">
-    <img width="90%" src="https://streak-stats.demolab.com?user=ShyamKumar1&theme=radical&hide_border=true" alt="GitHub Streak"/>
+    <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShyamKumar1&theme=radical" alt="Languages"/>
   </a>
 </p>
 
@@ -141,25 +141,6 @@ fun_fact: I love to draw and play guitar
     </td>
   </tr>
 </table>
-
----
-
-## &#x1F31F; Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY_TEMPLATE:start-->
-<details>
-  <summary><b>📈 Latest GitHub Activity</b></summary>
-  <br/>
-  <!--RECENT_ACTIVITY_TEMPLATE:end-->
-  <!--RECENT_ACTIVITY:start:
-  - 🍴 Forked [repo](link)
-  - ⭐ Starred [repo](link)
-  RECENT_ACTIVITY:end-->
-  <!--RECENT_ACTIVITY_TEMPLATE:start-->
-</details>
-<!--RECENT_ACTIVITY_TEMPLATE:end-->
 
 ---
 
