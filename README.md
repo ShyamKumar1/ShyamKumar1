@@ -83,12 +83,6 @@ fun_fact: I love to draw and play guitar
 
 <p align="center">
   <a href="https://github.com/ShyamKumar1">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShyamKumar1&theme=radical" alt="Languages by Commit"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ShyamKumar1">
     <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShyamKumar1&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
   </a>
 </p>
