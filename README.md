@@ -12,13 +12,13 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/shyam-kumar-9b9841157/">
+  <a href="[https://www.linkedin.com/in/shyam-kumar-9b9841157](https://www.linkedin.com/in/shyam-kumar-gatti/)/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/shyam.lev/">
+  <a href="https://www.instagram.com/shyam.systems/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:shyam.devlife@gmail.com">
+  <a href="mailto:gatti.shyamkumar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/ShyamKumar1">
@@ -141,13 +141,13 @@ fun_fact: I love to draw and play guitar
 ## &#x1F4F1; Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shyam-kumar-9b9841157/">
+  <a href="[https://www.linkedin.com/in/shyam-kumar-9b9841157/](https://www.linkedin.com/in/shyam-kumar-gatti/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/shyam.lev/">
+  <a href="https://www.instagram.com/shyam.systems/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:shyam.devlife@gmail.com">
+  <a href="mailto:gatti.shyamkumar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
