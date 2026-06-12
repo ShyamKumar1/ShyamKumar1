@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,24&height=200&section=header&text=Shyam%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20AI%20%2F%20ML%20Architect&descSize=16&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,24&height=200&section=header&text=Shyam%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Senior%20Python%20Developer%20%7C%20Founder&descSize=16&descAlignY=55" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9B72CF&center=true&vCenter=true&width=535&lines=Software+Engineer;AI+%2F+ML+Architect;Full+Stack+Developer;Open+Source+Contributor;Product+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9B72CF&center=true&vCenter=true&width=535&lines=AI+Engineer;Senior+Python+Developer;CTO+%7C+Ex-Cognizant;Founder+%40+Trilimedia;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.E.-Computer_Science_%26_Engineering-8B5CF6?style=flat-square&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_ML-Specialization-8B5CF6?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/B.Tech-Computer_Science_%26_Engineering-8B5CF6?style=flat-square&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Evaluation-Labelbox_%2F_Alignerr-8B5CF6?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Full_Stack-Architecture-8B5CF6?style=flat-square&logo=nextdotjs&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Bengaluru,_India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Anantapur,_India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
 <p align="center">
@@ -41,23 +41,23 @@
   <tr>
     <td width="65%">
       <p align="center">
-        <b>Senior Software Engineer</b> with deep expertise in architecting and shipping production-grade distributed systems. I bridge the gap between <b>AI/ML research</b> and <b>production engineering</b> — building intelligent products that serve millions.
+        <b>AI Engineer & Senior Python Developer</b> with 4+ years of experience spanning enterprise software development at <b>Cognizant</b>, AI model evaluation at <b>Labelbox (Alignerr)</b>, CTO leadership at <b>Technitude Info Solutions</b> (managed 15+ engineers, delivered 50+ client projects), and entrepreneurial brand leadership as <b>Founder of Trilimedia Digital Agency</b>.
       </p>
       <br />
       <p align="center">
         <b>What I Engineer</b>
       </p>
       <ul>
-        <li><b>AI / ML Systems</b> — LLM pipelines, RAG architectures, model serving at scale, fine-tuning workflows</li>
-        <li><b>Full Stack Platforms</b> — Cloud-native microservices, real-time data systems, high-throughput APIs</li>
-        <li><b>Product Engineering</b> — From zero-to-one MVPs to enterprise-grade platforms with obsessive UX</li>
+        <li><b>AI / ML Systems</b> — LLM evaluation, prompt engineering, RAG pipelines, model benchmarking</li>
+        <li><b>Full Stack Platforms</b> — Cloud-native microservices, enterprise web apps, real-time data systems</li>
+        <li><b>Product Engineering</b> — From zero-to-one MVPs to enterprise platforms with 99.9% uptime</li>
       </ul>
       <br />
       <p align="center">
         <b>Open To</b><br />
-        <img src="https://img.shields.io/badge/SWE_Roles-8B5CF6?style=flat-square" />
-        <img src="https://img.shields.io/badge/AI_ML_Engineer-7C3AED?style=flat-square" />
-        <img src="https://img.shields.io/badge/Full_Stack_Lead-6D28D9?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI_Engineer-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Senior_Python_Developer-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/CTO_%2F_Tech_Lead-6D28D9?style=flat-square" />
         <img src="https://img.shields.io/badge/Tech_Advisor-5B21B6?style=flat-square" />
         <img src="https://img.shields.io/badge/Open_Source-4C1D95?style=flat-square" />
       </p>
@@ -80,16 +80,16 @@
 
 <div align="center">
   <h4>Languages</h4>
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,go,kotlin,cpp,ruby&perline=8" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,kotlin,sql&perline=8" /></a>
 
   <h4>Frontend</h4>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind,html,css,bootstrap&perline=8" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,css&perline=8" /></a>
 
   <h4>Backend & Databases</h4>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,graphql,mongodb,postgres,mysql,redis,sqlite&perline=8" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,spring,graphql,mongodb,postgres,mysql,redis,sqlite&perline=8" /></a>
 
   <h4>Cloud, DevOps & Tooling</h4>
-  <a href="#"><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,git,linux,nginx,postman&perline=8" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,git,linux,nginx,prometheus,grafana,postman&perline=8" /></a>
 </div>
 
 <br />
@@ -104,12 +104,12 @@
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Large Language Models** | Advanced | RAG pipelines, prompt engineering, fine-tuning (LoRA/QLoRA), model serving (vLLM, TGI) |
-| **Computer Vision** | Intermediate | Image classification, object detection (YOLO), segmentation (SAM), vision transformers |
-| **NLP & Text Analytics** | Advanced | Named entity recognition, sentiment analysis, text summarization, transformer architectures |
-| **MLOps & Production** | Advanced | Model deployment, monitoring, A/B testing, CI/CD for ML, experiment tracking (MLflow, W&B) |
-| **Data Engineering** | Intermediate | ETL pipelines, feature stores, data warehousing, stream processing (Kafka) |
-| **Deep Learning** | Advanced | PyTorch, TensorFlow, neural architecture design, transfer learning, distributed training |
+| **LLM Evaluation** | Advanced | Model output scoring, safety benchmarking, edge-case identification, evaluation scenario design at $80-100/hr |
+| **Prompt Engineering** | Advanced | Jailbreak testing, system prompt optimization, multi-turn attack vectors, structured output design |
+| **RAG & Retrieval** | Intermediate | Vector databases, document chunking strategies, hybrid search, embedding optimization |
+| **AI Model Serving** | Intermediate | Model deployment pipelines, API wrappers, latency optimization, A/B testing frameworks |
+| **Data Engineering** | Intermediate | ETL pipelines, data processing automation, feature stores, n8n workflow orchestration |
+| **Enterprise Full Stack** | Advanced | Spring Boot + Angular enterprise apps, cloud-native microservices, CI/CD, 80%+ test coverage |
 
 </div>
 
@@ -125,12 +125,12 @@
   <summary><b>Alexander</b> — Autonomous AI Agent Framework</summary>
   <br />
   <p>
-    A production-grade autonomous AI agent framework with three-tier memory architecture, real-time voice pipelines, and a sophisticated goals scheduler. Built to bridge the gap between experimental AI research and deployable engineering artifacts.
+    A production-grade autonomous AI agent framework with three-tier memory architecture (working, episodic, semantic), real-time voice pipeline via VAD+Whisper, and a sophisticated goals scheduler with priority queues. Built entirely from scratch to bridge AI research and deployable engineering.
   </p>
 
   | Attribute | Detail |
   | :--- | :--- |
-  | **Stack** | Python, PyTorch, FastAPI, WebSocket, Redis, PostgreSQL, Docker |
+  | **Stack** | Python, FastAPI, WebSocket, Redis, PostgreSQL, Docker |
   | **Scale** | Multi-agent orchestration with async event-driven communication |
   | **Performance** | Sub-100ms inference pipeline; VAD-triggered wake word detection |
   | **Security** | Sandboxed execution, input validation, rate-limited endpoints |
@@ -138,16 +138,100 @@
   | **Repository** | <a href="https://github.com/ShyamKumar1/alexander">github.com/ShyamKumar1/alexander</a> |
 
   <br />
-  <i>Architected and built from scratch — three-tier memory (working, episodic, semantic), goals scheduler with priority queues, real-time voice interface via VAD+Whisper pipeline, and modular plugin architecture.</i>
+  <i>Three-tier memory architecture, goals scheduler with priority queues, real-time voice interface via VAD+Whisper pipeline, and modular plugin architecture.</i>
 </details>
 
 <br />
 
 <details>
-  <summary><b>Hermes Vault</b> — Automated Knowledge Management Platform</summary>
+  <summary><b>AI Code Evaluator</b> — Automated Code Quality Scoring</summary>
   <br />
   <p>
-    An automated knowledge management and archiving platform that captures, organizes, and surfaces daily engineering insights, project artifacts, and research findings through an elegant web interface.
+    An automated framework that scores AI-generated code across four weighted dimensions — correctness (40%), edge cases (25%), performance (20%), and code quality (15%) — producing a 0-100 score with detailed Markdown reports. Inspired by Labelbox and Scale AI evaluation pipelines.
+  </p>
+
+  | Attribute | Detail |
+  | :--- | :--- |
+  | **Stack** | Python 3.11+, pytest, PyYAML, GitHub Actions CI |
+  | **Scale** | Multi-dimensional scoring matrix with configurable weight profiles |
+  | **Performance** | Batch evaluation pipeline with parallel test execution |
+  | **Security** | Sandboxed code execution, input validation, CI-scoped permissions |
+  | **Impact** | Production evaluation tool used for AI model benchmarking workflows |
+  | **Repository** | <a href="https://github.com/ShyamKumar1/ai-code-evaluator">github.com/ShyamKumar1/ai-code-evaluator</a> |
+
+  <br />
+  <i>100% pytest coverage with CI matrix across Python 3.11-3.13. Configurable rubric weights, detailed scoring breakdowns, and pass/fail thresholds for automated quality gates.</i>
+</details>
+
+<br />
+
+<details>
+  <summary><b>DSS Accounting System</b> — GST-Compliant Silk Industry Platform</summary>
+  <br />
+  <p>
+    A full-stack monorepo accounting system purpose-built for the silk saree industry. Features double-entry accounting, GST engine (CGST/SGST/IGST), invoice management, credit notes, bank reconciliation, and GSTR-1/3B reporting for 5 firms. Turbo monorepo with Prisma ORM and PostgreSQL.
+  </p>
+
+  | Attribute | Detail |
+  | :--- | :--- |
+  | **Stack** | TypeScript, Turbo, Next.js, Fastify, Drizzle ORM, Turso, Prisma, PostgreSQL, Redis, Docker |
+  | **Scale** | Multi-tenant architecture serving 5 firms with firm-level data isolation |
+  | **Performance** | Redis-cached queries; sub-100ms report generation for GSTR filings |
+  | **Security** | Row-level security, session-based auth, audit logging for all financial transactions |
+  | **Impact** | Production system managing real financial data for multiple businesses |
+  | **Repository** | <a href="https://github.com/ShyamKumar1/dss">github.com/ShyamKumar1/dss</a> |
+
+  <br />
+  <i>End-to-end GST compliance engine: auto-calculates CGST/SGST/IGST based on transaction type. Generates GSTR-1 and GSTR-3B returns. Multi-firm dashboard with role-based access control.</i>
+</details>
+
+<br />
+
+<details>
+  <summary><b>Money Machine</b> — Revenue Automation & Lead Engine</summary>
+  <br />
+  <p>
+    A revenue automation platform with Express dashboard, n8n workflow engine, and three active automation pipelines — Lead Gen ($197-497/mo), Content Engine ($147-247/mo), and Booking System ($97-197/mo). Processes 1,000+ qualified leads with real-time dashboards.
+  </p>
+
+  | Attribute | Detail |
+  | :--- | :--- |
+  | **Stack** | Python, Express.js, n8n, SQLite, REST APIs |
+  | **Scale** | 1,000+ leads processed with automated enrichment and scoring |
+  | **Performance** | Real-time lead ingestion with sub-minute processing latency |
+  | **Security** | API-key authenticated webhooks, rate-limited endpoints, encrypted storage |
+  | **Impact** | Revenue-generating system with active client subscriptions |
+  | **Repository** | <a href="https://github.com/ShyamKumar1/money">github.com/ShyamKumar1/money</a> |
+
+  <br />
+  <i>Three-tier automation pipeline: lead sourcing & enrichment → content generation & distribution → booking & follow-up automation. n8n orchestrates the entire workflow with Hermes handling data processing.</i>
+</details>
+
+<br />
+
+<details>
+  <summary><b>Trilimedia Brand Projects</b> — Tropica Café & TARA Jewelry</summary>
+  <br />
+  <p>
+    Flagship brand identity and content strategy projects delivered through Trilimedia Digital Agency. Tropica Café was repositioned as a premium café brand with full visual identity and 6-month content system. TARA Jewelry received a complete brand identity suite with AI-augmented documentation and structured launch architecture.
+  </p>
+
+  | Brand | Deliverables |
+  | :--- | :--- |
+  | **Tropica Café** | Brand repositioning, visual identity system, 6-month content strategy, social media framework, story-led engagement model |
+  | **TARA Jewelry** | Full brand identity suite, logo system, design templates, storytelling assets, structured launch campaign architecture |
+
+  <br />
+  <i>Both projects delivered through Trilimedia Digital Agency (founded 2023). Combined result: measurable customer engagement lift and zero off-brand incidents across all accounts.</i>
+</details>
+
+<br />
+
+<details>
+  <summary><b>Hermes Vault</b> — Automated Knowledge Management</summary>
+  <br />
+  <p>
+    An automated knowledge management and archiving platform that captures, organizes, and surfaces daily engineering insights, project artifacts, and research findings through an elegant web interface. Runs on a nightly cron-driven build pipeline.
   </p>
 
   | Attribute | Detail |
@@ -155,78 +239,12 @@
   | **Stack** | TypeScript, Next.js, Tailwind CSS, Markdown, Netlify, GitHub Actions |
   | **Scale** | Automated daily ingestion with cron-driven builds |
   | **Performance** | Static site generation; sub-second page loads globally via CDN |
-  | **Security** | Encrypted storage, API-gated write operations, HTTPS everywhere |
+  | **Security** | API-gated write operations, HTTPS everywhere |
   | **Impact** | Centralized knowledge base serving as daily engineering journal |
   | **Repository** | <a href="https://github.com/ShyamKumar1/hermes-vault">github.com/ShyamKumar1/hermes-vault</a> |
 
   <br />
   <i>End-to-end automated pipeline: GitHub Actions cron triggers content ingestion → Markdown generation → static site build → Netlify deployment. Sections for daily logs, blogs, projects, contracts, and archive.</i>
-</details>
-
-<br />
-
-<details>
-  <summary><b>Searcharvester</b> — Intelligent Data Extraction Engine</summary>
-  <br />
-  <p>
-    A modular search and extraction platform that combines meta-search engine aggregation with intelligent content parsing. Designed for efficient web data collection at scale.
-  </p>
-
-  | Attribute | Detail |
-  | :--- | :--- |
-  | **Stack** | Python, FastAPI, SearXNG, BeautifulSoup, PostgreSQL, Docker Compose |
-  | **Scale** | Multi-source search aggregation with parallel request handling |
-  | **Performance** | Sub-second search result aggregation from 10+ engines simultaneously |
-  | **Security** | Rate-limited endpoints, request validation, isolated container deployment |
-  | **Impact** | Powers client-facing data extraction workflows for international clientele |
-  | **Repository** | <a href="https://github.com/ShyamKumar1/searcharvester">github.com/ShyamKumar1/searcharvester</a> |
-
-  <br />
-  <i>Production system with dual-service architecture: SearXNG meta-search engine (port 8999) + FastAPI extraction API (port 8000). Used for competitive intelligence, research automation, and data pipeline feeding.</i>
-</details>
-
-<br />
-
-<details>
-  <summary><b>Tracker Dashboard</b> — Business Intelligence Platform</summary>
-  <br />
-  <p>
-    A full-featured business intelligence and operations dashboard for tracking leads, projects, revenue, and client engagements. Purpose-built for independent consultants and agencies.
-  </p>
-
-  | Attribute | Detail |
-  | :--- | :--- |
-  | **Stack** | Node.js, Express, SQLite, vanilla JavaScript, n8n webhooks, Chart.js |
-  | **Scale** | Single-user SaaS architecture with modular multi-tenant readiness |
-  | **Performance** | Sub-50ms query response; lazy-loaded charts and paginated views |
-  | **Security** | Session-based authentication, CSRF protection, input sanitization |
-  | **Impact** | Daily operational hub tracking $50K+ revenue pipeline |
-  | **Repository** | <a href="https://github.com/ShyamKumar1/tracker-dashboard">github.com/ShyamKumar1/tracker-dashboard</a> |
-
-  <br />
-  <i>Dark-mode BI dashboard with six tracking modules (leads, projects, clients, revenue, automations, emails). Integrates with n8n automation workflows for zero-touch pipeline updates.</i>
-</details>
-
-<br />
-
-<details>
-  <summary><b>Shyam Portfolio</b> — Interactive Time Machine Portfolio</summary>
-  <br />
-  <p>
-    An avant-garde personal portfolio website featuring a Time Machine navigation metaphor with CSS particle systems. Designed to command attention in competitive AI engineering hiring markets.
-  </p>
-
-  | Attribute | Detail |
-  | :--- | :--- |
-  | **Stack** | Next.js, Three.js, Framer Motion, Tailwind CSS, CSS custom properties |
-  | **Scale** | Static generation with dynamic 3D rendering; globally distributed |
-  | **Performance** | < 100ms initial load with optimized asset pipeline and lazy loading |
-  | **Security** | No server-side state; fully client-side rendered static export |
-  | **Impact** | Job-getting catalyst designed for FAANG-level AI Engineer roles |
-  | **Repository** | <a href="https://github.com/ShyamKumar1/shyam-portfolio">github.com/ShyamKumar1/shyam-portfolio</a> |
-
-  <br />
-  <i>Time Machine navigation concept with animated CSS particle field (#00FF41 terminal green accent). Case-study-driven architecture demonstrating engineering depth while serving as conversion-optimized hiring asset.</i>
 </details>
 
 <br />
@@ -241,23 +259,20 @@
   <table>
     <tr>
       <td align="left">
-        <b>Senior Software Engineer</b><br />
-        <img src="https://img.shields.io/badge/Company_Name-8B5CF6?style=flat-square&logo=windows&logoColor=white" />
+        <b>Senior Python Developer — AI Model Review</b><br />
+        <img src="https://img.shields.io/badge/Labelbox_%2F_Alignerr_(Upwork_LBLX128)-8B5CF6?style=flat-square&logo=windowsterminal&logoColor=white" />
         <br />
-        <sub>Jan 2023 — Present · Bengaluru, India</sub>
+        <sub>Jun 2026 — Present · Remote</sub>
         <br /><br />
         <ul>
-          <li>Architected and shipped production AI/ML pipelines serving 1M+ daily requests with < 50ms p99 latency</li>
-          <li>Led full-stack development of cloud-native microservices platform reducing deployment cycles by 70%</li>
-          <li>Designed multi-tenant RAG architecture improving document retrieval accuracy by 34% over baseline</li>
-          <li>Established CI/CD practices, code review standards, and observability frameworks adopted across 4 teams</li>
+          <li>Evaluating generative AI models on Alignerr platform — reviewing LLM outputs for correctness, safety, and quality</li>
+          <li>Designing evaluation scenarios to identify model failure modes across diverse domains at $80-100/hr</li>
+          <li>Scoring model performance across accuracy, edge-case handling, and code quality dimensions</li>
         </ul>
         <br />
-        <img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/AWS-7C3AED?style=flat-square&logo=amazonwebservices" />
-        <img src="https://img.shields.io/badge/TypeScript-6D28D9?style=flat-square&logo=typescript" />
-        <img src="https://img.shields.io/badge/Kubernetes-5B21B6?style=flat-square&logo=kubernetes" />
-        <img src="https://img.shields.io/badge/PyTorch-4C1D95?style=flat-square&logo=pytorch" />
+        <img src="https://img.shields.io/badge/LLM_Evaluation-8B5CF6?style=flat-square&logo=openai" />
+        <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python" />
       </td>
     </tr>
   </table>
@@ -267,22 +282,23 @@
   <table>
     <tr>
       <td align="left">
-        <b>Software Development Engineer</b><br />
-        <img src="https://img.shields.io/badge/Company_Name-7C3AED?style=flat-square&logo=windows&logoColor=white" />
+        <b>Chief Technology Officer (CTO)</b><br />
+        <img src="https://img.shields.io/badge/Technitude_Info_Solutions_Pvt_Ltd-7C3AED?style=flat-square&logo=windowsterminal&logoColor=white" />
         <br />
-        <sub>Jun 2021 — Dec 2022 · Bengaluru, India</sub>
+        <sub>Aug 2025 — Jan 2026 · India</sub>
         <br /><br />
         <ul>
-          <li>Developed RESTful APIs and event-driven microservices handling 500K+ concurrent users</li>
-          <li>Implemented ML-based recommendation engine boosting user engagement metrics by 28%</li>
-          <li>Optimized SQL/NoSQL database queries reducing average response time by 40%</li>
-          <li>Built real-time analytics dashboard serving executive decision-making across product teams</li>
+          <li>Defined technology roadmap; led 15+ engineers across Python, DevOps, QA, and delivery teams</li>
+          <li>Architected AI-powered data pipelines reducing client manual workflows by up to 60%</li>
+          <li>Established pytest (80%+ coverage), GitHub Actions CI/CD, mandatory code review standards</li>
+          <li>Delivered 50+ client projects with 99.9% uptime on AWS/GCP (Docker, Kubernetes, Terraform)</li>
         </ul>
         <br />
-        <img src="https://img.shields.io/badge/Java-7C3AED?style=flat-square&logo=openjdk" />
-        <img src="https://img.shields.io/badge/React-6D28D9?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/AWS-6D28D9?style=flat-square&logo=amazonwebservices" />
         <img src="https://img.shields.io/badge/Docker-5B21B6?style=flat-square&logo=docker" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4C1D95?style=flat-square&logo=postgresql" />
+        <img src="https://img.shields.io/badge/Kubernetes-4C1D95?style=flat-square&logo=kubernetes" />
+        <img src="https://img.shields.io/badge/Terraform-3B0764?style=flat-square&logo=terraform" />
       </td>
     </tr>
   </table>
@@ -292,20 +308,44 @@
   <table>
     <tr>
       <td align="left">
-        <b>Associate Software Engineer</b><br />
-        <img src="https://img.shields.io/badge/Company_Name-6D28D9?style=flat-square&logo=windows&logoColor=white" />
+        <b>Founder & CEO</b><br />
+        <img src="https://img.shields.io/badge/Trilimedia_Digital_Agency-6D28D9?style=flat-square&logo=windowsterminal&logoColor=white" />
         <br />
-        <sub>Jan 2020 — May 2021 · Bengaluru, India</sub>
+        <sub>2023 — Present · India</sub>
         <br /><br />
         <ul>
-          <li>Contributed to full-stack feature development on SaaS platform serving 50+ enterprise clients</li>
-          <li>Built automated testing framework reducing regression bugs by 60% in production releases</li>
-          <li>Implemented monitoring and alerting infrastructure using Prometheus and Grafana</li>
+          <li>Founded full-service digital agency serving 10+ clients across F&B, retail, IT, fitness, and education sectors</li>
+          <li>Delivered brand identity systems, content governance frameworks, statewide campaigns, and creative strategy</li>
+          <li>Built content workflows and brand frameworks achieving zero off-brand incidents across all accounts</li>
         </ul>
         <br />
-        <img src="https://img.shields.io/badge/Node.js-6D28D9?style=flat-square&logo=nodedotjs" />
-        <img src="https://img.shields.io/badge/MongoDB-5B21B6?style=flat-square&logo=mongodb" />
-        <img src="https://img.shields.io/badge/AWS-4C1D95?style=flat-square&logo=amazonwebservices" />
+        <img src="https://img.shields.io/badge/Brand_Strategy-6D28D9?style=flat-square&logo=adobe" />
+        <img src="https://img.shields.io/badge/Content_Strategy-5B21B6?style=flat-square&logo=markdown" />
+        <img src="https://img.shields.io/badge/Digital_Marketing-4C1D95?style=flat-square&logo=googleanalytics" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <table>
+    <tr>
+      <td align="left">
+        <b>Programming Analyst</b><br />
+        <img src="https://img.shields.io/badge/Cognizant_Technology_Solutions-5B21B6?style=flat-square&logo=windowsterminal&logoColor=white" />
+        <br />
+        <sub>Mar 2022 — Nov 2024 · India</sub>
+        <br /><br />
+        <ul>
+          <li>Developed enterprise web applications using Java (Spring Boot), Angular, TypeScript, and AWS</li>
+          <li>Collaborated in large multi-team Agile environments (JIRA, GitHub) delivering to production quarterly</li>
+          <li>Star of the Quarter Award for exceptional contribution and delivery quality</li>
+        </ul>
+        <br />
+        <img src="https://img.shields.io/badge/Java-5B21B6?style=flat-square&logo=openjdk" />
+        <img src="https://img.shields.io/badge/Spring_Boot-4C1D95?style=flat-square&logo=spring" />
+        <img src="https://img.shields.io/badge/Angular-3B0764?style=flat-square&logo=angular" />
+        <img src="https://img.shields.io/badge/AWS-2E0268?style=flat-square&logo=amazonwebservices" />
       </td>
     </tr>
   </table>
@@ -323,10 +363,11 @@
 
 | Recognition | Details |
 | :--- | :--- |
-| <img src="https://img.shields.io/badge/Open_Source_Contributor-8B5CF6?style=for-the-badge" /> | Active contributor to Hermes Agent, Nous Research ecosystem, and multiple open-source AI/ML projects |
-| <img src="https://img.shields.io/badge/Engineering_Excellence-7C3AED?style=for-the-badge" /> | Recognized for architecting production systems serving 1M+ daily requests with enterprise-grade reliability |
-| <img src="https://img.shields.io/badge/AI_Innovation_Award-6D28D9?style=for-the-badge" /> | Developed autonomous AI agent framework with novel three-tier memory architecture |
-| <img src="https://img.shields.io/badge/Community_Builder-5B21B6?style=for-the-badge" /> | Established engineering knowledge base and developer tooling shared across global teams |
+| <img src="https://img.shields.io/badge/Star_of_the_Quarter-8B5CF6?style=for-the-badge" /> | Cognizant award for exceptional contribution, delivery quality, and team collaboration |
+| <img src="https://img.shields.io/badge/50%2B_Client_Projects-7C3AED?style=for-the-badge" /> | Delivered as CTO at Technitude — maintained 99.9% uptime across all deployments |
+| <img src="https://img.shields.io/badge/Open_Source_Contributor-6D28D9?style=for-the-badge" /> | Contributions to Marimo, LM Studio Bridge, OpenCode, and Hermes Agent ecosystem |
+| <img src="https://img.shields.io/badge/AI_Evaluator-5B21B6?style=for-the-badge" /> | Active Labelbox/Alignerr contractor evaluating frontier LLMs at $80-100/hr |
+| <img src="https://img.shields.io/badge/Agency_Founder-4C1D95?style=for-the-badge" /> | Founded Trilimedia Digital Agency — 10+ clients, zero off-brand incidents |
 
 </div>
 
@@ -340,18 +381,13 @@
 
 <div align="center">
   <h4>AWS</h4>
-  <a href="#"><img src="https://img.shields.io/badge/AWS_Solutions_Architect-8B5CF6?style=for-the-badge&logo=amazonwebservices&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/AWS_Developer-7C3AED?style=for-the-badge&logo=amazonwebservices&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS_Cloud_Practitioner_(CLF--C02)-8B5CF6?style=for-the-badge&logo=amazonwebservices&logoColor=white" /></a>
 
-  <h4>Oracle</h4>
-  <a href="#"><img src="https://img.shields.io/badge/Oracle_Java_SE-8B5CF6?style=for-the-badge&logo=oracle&logoColor=white" /></a>
+  <h4>IBM</h4>
+  <a href="#"><img src="https://img.shields.io/badge/IBM_AI_Fundamentals-8B5CF6?style=for-the-badge&logo=ibm&logoColor=white" /></a>
 
-  <h4>NPTEL</h4>
-  <a href="#"><img src="https://img.shields.io/badge/AI_Deep_Learning-8B5CF6?style=for-the-badge&logo=google&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Cloud_Computing-7C3AED?style=for-the-badge&logo=google&logoColor=white" /></a>
-
-  <h4>Cisco</h4>
-  <a href="#"><img src="https://img.shields.io/badge/Cisco_CCNA-8B5CF6?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+  <h4>Google Cloud</h4>
+  <a href="#"><img src="https://img.shields.io/badge/Cloud_Load_Balancing-8B5CF6?style=for-the-badge&logo=googlecloud&logoColor=white" /></a>
 </div>
 
 <br />
@@ -438,23 +474,23 @@
 
 ```yaml
 learning:
-  - Advanced distributed systems design patterns
-  - Large-scale LLM deployment and optimization
-  - Real-time streaming architectures (Kafka, Flink)
-
-building:
-  - Autonomous AI agent frameworks
-  - Next-generation developer tooling
-  - Production-grade ML serving infrastructure
-
-exploring:
-  - Multi-modal AI architectures
-  - Edge computing and on-device ML
+  - Advanced LLM evaluation methodologies
+  - Distributed systems design patterns
   - AI safety and alignment research
 
+building:
+  - Autonomous AI agent frameworks (Alexander)
+  - Revenue automation pipelines (n8n + Hermes)
+  - Production-grade AI evaluation tooling
+
+exploring:
+  - AI red teaming and bug bounty programs
+  - Multi-modal AI architectures
+  - Brand strategy + AI-augmented content systems
+
 open_to:
-  - Senior SWE / AI Engineer roles
-  - Technical consulting engagements
+  - Senior AI Engineer / Python Developer roles
+  - Technical consulting and fractional CTO engagements
   - Open source collaborations
   - Speaking and community contributions
 ```
@@ -485,5 +521,5 @@ open_to:
     <i>"Engineering is not just about writing code — it's about architecting systems that make a difference."</i>
   </p>
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,24&height=120&section=footer&text=Shyam%20Kumar%20%E2%80%A2%20Senior%20Software%20Engineer&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,24&height=120&section=footer&text=Shyam%20Kumar%20%E2%80%A2%20AI%20Engineer%20%7C%20Senior%20Python%20Developer%20%7C%20Founder&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%" />
 </div>
