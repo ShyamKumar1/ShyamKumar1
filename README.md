@@ -431,7 +431,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShyamKumar1&theme=discord&no-frame=true&no-bg=true&column=7&row=1&margin-w=15&margin-h=15" width="100%" />
+  <img src="https://github-trophies.vercel.app/?username=ShyamKumar1&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
 </div>
 
 <br />
